@@ -1,2 +1,4 @@
 # vault
-A knowledge vault with artivles, papers, videos of different aspects with small notes of the ones that have been reviewed
+
+### Django
+- [ ] [Implementing a Data Warehouse with Django - Towards Data Science](https://towardsdatascience.com/implementing-a-data-warehouse-with-django-e4856c92f146). [Notes](notes/python/django/django_data_warehouse.md)
